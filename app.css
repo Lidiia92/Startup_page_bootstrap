@@ -1,3 +1,10 @@
-h1 {
-    color: pink;
+body{
+    background: url(cat-bc.jpg) no-repeat center center fixed;
+    background-size: cover;
+    background-position: 50% 90%;
+}
+
+#content {
+    text-align: center;
+    padding-top: 25%;
 }
